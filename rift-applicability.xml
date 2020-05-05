@@ -581,7 +581,7 @@ easily recognizable remote ends of links and node names.
 
 
     <section><name>South Reflection</name>
-    <t>South reflection is a mechanism that South Node TIEs are "reflected"
+    <t>South reflection is a mechanism that "reflect" South Node TIEs
     back up north to allow nodes in same level without E-W links to "see"
     each other.
     </t>
